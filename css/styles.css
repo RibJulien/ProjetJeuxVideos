@@ -1,0 +1,11 @@
+body {
+    background-color:#CECECE!important;
+}
+
+input {
+    border-radius: 8px;
+}
+
+.alert-flash {
+    border-radius: 10px!important;
+}

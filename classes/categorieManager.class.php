@@ -33,6 +33,7 @@
             $this->pdo->commit();
         }
 
+
         // méthode qui retourne la liste des objets guitares en BDD
         public function getListObjetsCategories() {
         $categories = array();
