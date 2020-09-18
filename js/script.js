@@ -1,1 +1,2 @@
-document.title = Date.now();
+var d = Date();
+document.title = d.toString();
